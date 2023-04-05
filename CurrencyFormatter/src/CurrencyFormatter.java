@@ -2,6 +2,7 @@
 import java.util.*;
 import java.text.*;
 
+
 // Define a public class named currencyFormatter
 public class CurrencyFormatter {
     // Define a main method that takes in user input for a payment value and formats it in different currencies
